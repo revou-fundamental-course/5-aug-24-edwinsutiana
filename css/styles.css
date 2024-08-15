@@ -1,0 +1,16 @@
+.main-title {
+    text-align: center;
+}
+
+main {
+    display: flex;
+}
+
+form {
+    padding: 10px;
+    background-color: khaki;
+}
+
+aside {
+    padding: 30px;
+}
